@@ -1,0 +1,10 @@
+horseracingrelease-v2
+=====================
+
+.. toctree::
+   :maxdepth: 4
+
+   Detection
+   config
+   main
+   util
